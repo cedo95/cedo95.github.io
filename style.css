@@ -1,0 +1,64 @@
+body{
+	font-family: sans-serif;
+	background-color: #e0e0f8;
+}
+
+#header{
+	width: 100%;
+	background-color: #adadad;
+	height: 100px;
+	text-align: center;
+	font-size: 30PX;
+	padding: 30PX;
+}
+
+
+#imagine{
+	width: 50%;
+	float: left;
+	
+}
+#lista{
+	float:right;
+	width: 50%;
+	margin-top: 70px;
+
+}
+
+#skills{
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	padding:20px;
+
+}
+.skill{
+	width:100%;
+	color: #FF7133;
+	background-color:#FFDD33; 		
+	margin: 5px;
+	padding:20px;
+}
+ #datos{
+ 	padding: 30px;
+ 	background-color:rgba(0,0,0,0.3);
+ 	display: block;
+ }
+
+#perfil{
+	border-radius: 50%;
+	margin: 50px auto;
+	padding-top:70PX;
+}
+
+ul{
+   font-size: 25px;
+   text-align: left;
+
+}
+
+
+.skill img{
+	width: 200px;
+
+}
