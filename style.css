@@ -10,10 +10,23 @@ body{
 	text-align: center;
 	font-size: 30PX;
 	padding: 30PX;
+	text-transform:20%;
+
+
+
 }
+
+ 
+ #sombra{
+ 	font-weight: 50%;
+ 	background-color: #3D453F;
+ 	color: #132217
+
+ }
 
 
 #imagine{
+
 	width: 50%;
 	float: left;
 	
@@ -46,9 +59,10 @@ body{
  }
 
 #perfil{
-	border-radius: 50%;
+	border-radius: 30%;
 	margin: 50px auto;
 	padding-top:70PX;
+	width: 600px;
 }
 
 ul{
